@@ -5,7 +5,7 @@ Welcome to the course website for 2022 MSTP Bioinformatics Bootcamp!<br />
 
 ## Course Information
 
-**When**: August 1-5 8AM-12PM PST
+**When**: August 1-5; 8AM-12PM PDT
 
 **Where**: Medical Education and Telemedicine Building (MET) 304
 
@@ -29,7 +29,7 @@ Please email us with any questions or concerns!
 ## Bioinformatics Resources
 
 ### Online resources:
-[Biology Meets Programming:Bioinformatics for Beginners](https://www.coursera.org/learn/bioinformatics)<br>
+[Biology Meets Programming: Bioinformatics for Beginners](https://www.coursera.org/learn/bioinformatics)<br>
 [Bioinformatics Algorithms: An Active Learning Approach (YouTube)](https://www.youtube.com/c/bioinfalgorithms/featured)<br>
 
 ### Recommended UCSD Courses:
