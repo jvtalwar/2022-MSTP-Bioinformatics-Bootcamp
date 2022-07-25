@@ -15,13 +15,11 @@ Welcome to the course website for 2022 MSTP Bioinformatics Bootcamp!<br />
 
 Please email us with any questions or concerns!
 
-
 ## Syllabus
-
 
 | Day  | Date | Topic | Links | Homework |
 | ------------- | ------------- |------------- |------------- |------------- |
-| 0 | **BEFORE** 08/1/2022  | **Setup**: *"Shall We Begin?"*  | [Day_0]() | [Generate Keys]()<br />[Installations]()| 
+| 0 | **BEFORE** 08/1/2022  | **Setup**: *"Shall We Begin?"*  | [Day_0](https://github.com/jvtalwar/2022-MSTP-Bioinformatics-Bootcamp/tree/main/Day_0_Setup) | [Generate Keys](https://github.com/jvtalwar/2022-MSTP-Bioinformatics-Bootcamp/tree/main/Day_0_Setup/Generate_Keys)<br />[Installations](https://github.com/jvtalwar/2022-MSTP-Bioinformatics-Bootcamp/tree/main/Day_0_Setup/Installations)| 
 | 1  | 08/1/2022  | **Module 1**: Unix, TSCC, Installations  | [Day_1]()  | Read [Hangauer et al.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5933935/)| 
 | 2  | 08/2/2022  | **Module 2**: RNA Alignment (STAR, fastqc)  | [Day_2]()   | | 
 | 3  | 08/3/2022  | **Module 3**: RNA Quantification (featureCounts, samtools, IGV)  | [Day_3]()  | |
