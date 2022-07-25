@@ -1,13 +1,13 @@
-# 2021 MSTP Bioinformatics Bootcamp
-Welcome to the course website for 2021 MSTP Bioinformatics Bootcamp!<br />
+# 2022 MSTP Bioinformatics Bootcamp
+Welcome to the course website for 2022 MSTP Bioinformatics Bootcamp!<br />
 
 ![HomeImage](https://imgs.xkcd.com/comics/dna.png)
 
 ## Course Information
 
-**When**: July 12-16 8AM-12PM PST
+**When**: August 1-5 8AM-12PM PST
 
-**Where**: Zoom - https://ucsd.zoom.us/j/94753444258?pwd=RHhoUUZ0K2YzSVIzeVA0RVl6RjNaQT09
+**Where**: Medical Education and Telemedicine Building (MET) 304
 
 **Instructor**: Hannah Carter (hkcarter@health.ucsd.edu)
 
@@ -21,12 +21,12 @@ Please email us with any questions or concerns!
 
 | Day  | Date | Topic | Links | Homework |
 | ------------- | ------------- |------------- |------------- |------------- |
-| 0 | Before 07/12/2021  | **Setup**: "Shall we Begin?"  | [Day_0](https://github.com/jvtalwar/2021-MSTP-Bioinformatics-Bootcamp/tree/master/Day_0_Setup) | [Generate Keys](https://github.com/jvtalwar/2021-MSTP-Bioinformatics-Bootcamp/tree/master/Day_0_Setup/Generate_Keys)<br />[Installations](https://github.com/jvtalwar/2021-MSTP-Bioinformatics-Bootcamp/tree/master/Day_0_Setup/Installations)| 
-| 1  | 07/12/2021  | **Module 1**: Unix, TSCC, Installations  | [Day_1](https://github.com/jvtalwar/2021-MSTP-Bioinformatics-Bootcamp/tree/master/Day_1)  | Read [Hangauer et al.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5933935/)| 
-| 2  | 07/13/2021  | **Module 2**: RNA Alignment (STAR, fastqc)  | [Day_2](https://github.com/jvtalwar/2021-MSTP-Bioinformatics-Bootcamp/tree/master/Day_2)   | | 
-| 3  | 07/14/2021  | **Module 3**: RNA Quantification (featureCounts, samtools, IGV)  | [Day_3](https://github.com/jvtalwar/2021-MSTP-Bioinformatics-Bootcamp/tree/master/Day_3)  | |
-| 4  | 07/15/2021  | **Module 4**: RNA Analysis (DESeq2, RPKM, seaborn)  | [Day_4](https://github.com/jvtalwar/2021-MSTP-Bioinformatics-Bootcamp/tree/master/Day_4)  |[GenePattern Setup](https://github.com/jvtalwar/2021-MSTP-Bioinformatics-Bootcamp/blob/master/Day_5/Prerequisites%20for%20GenePattern%20workshop.ipynb) |
-| 5  | 07/16/2021  | **Module 5**: GenePattern Workshop  | [Day_5](https://github.com/jvtalwar/2021-MSTP-Bioinformatics-Bootcamp/tree/master/Day_5)  |[Post-Bootcamp Survey](https://docs.google.com/forms/d/e/1FAIpQLScIGdBjRTEGh58zBmSnYjfU1R8KFAcNyYCbgslj51193Sk2sQ/viewform?usp=sf_link)|
+| 0 | **BEFORE** 08/1/2022  | **Setup**: *"Shall We Begin?"*  | [Day_0]() | [Generate Keys]()<br />[Installations]()| 
+| 1  | 08/1/2022  | **Module 1**: Unix, TSCC, Installations  | [Day_1]()  | Read [Hangauer et al.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5933935/)| 
+| 2  | 08/2/2022  | **Module 2**: RNA Alignment (STAR, fastqc)  | [Day_2]()   | | 
+| 3  | 08/3/2022  | **Module 3**: RNA Quantification (featureCounts, samtools, IGV)  | [Day_3]()  | |
+| 4  | 08/4/2022  | **Module 4**: RNA Analysis (DESeq2, RPKM, seaborn)  | [Day_4]()  |[GenePattern Setup]() |
+| 5  | 08/5/2022  | **Module 5**: GenePattern Workshop  | [Day_5]()  |[Post-Bootcamp Survey]()|
 
 ## Bioinformatics Resources
 
