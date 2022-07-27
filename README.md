@@ -9,11 +9,11 @@ Welcome to the course website for 2022 MSTP Bioinformatics Bootcamp!<br />
 
 **Where**: Medical Education and Telemedicine Building (MET) 304
 
-**Instructor**: Hannah Carter (hkcarter@health.ucsd.edu)
+**Instructor**: [Hannah Carter](https://carterlab.info/) (hkcarter@health.ucsd.edu)
 
-**TA**: James Talwar (jtalwar@eng.ucsd.edu)
+**TA**: [James Talwar](https://jvtalwar.github.io/dk-isle/) (jtalwar@eng.ucsd.edu)
 
-Please email us with any questions or concerns!
+Questions or concerns? Feel free to send along an email.
 
 ## Syllabus
 
@@ -33,9 +33,9 @@ Please email us with any questions or concerns!
 [Bioinformatics Algorithms: An Active Learning Approach (YouTube)](https://www.youtube.com/c/bioinfalgorithms/featured)<br>
 
 ### Recommended UCSD Courses:
-**BIOM262 Quantitative Methods/Genetics** - Several notebooks were taken/adapted from this course and I recommend it if you want an introduction to bioinformatics methods<br>
+**BIOM262 Quantitative Methods/Genetics** - Several notebooks were taken/adapted from this course and I recommend it if you want an introduction to bioinformatics methods.<br>
 **CSE284 Personal Genomics/Bioinformatics** - This is an invaluable course (focusing on personal genomics) that blends theory and application seamlessly. Information from this course also made its way into bootcamp. <br>
-**CSE258 Recommender Systems & Web Mining** - This course is focused on machine learning applications (primarily in Python), while also providing some introductory theory.<br>
+**CSE258 Recommender Systems & Web Mining** - This course is focused on machine learning applications (primarily in Python), while also providing some introductory theory. This is a great course to get your feet wet in the ocean of ML.<br>
 **BNFO286 Network Biology & Biomedicine**<br>
 **MED278 Cancer Genomics Journal Club**<br>
 
