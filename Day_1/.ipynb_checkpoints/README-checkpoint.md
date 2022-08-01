@@ -9,6 +9,6 @@ Learn about FASTQ format<br>
 
 ## Slides for Day 1:
 
-Slides for Day 1 can be found here: COMING SOON - Stay tuned for a slide deck near you!
+Slides for Day 1 can be found here: https://docs.google.com/presentation/d/1esKl1e6KrLrqtRKeI3Ea1y5rylRHUj2urcaA-JUS0bE/edit?usp=sharing
 
 If you run into any issues or have any questions/concerns feel free to shoot me an email: jtalwar@eng.ucsd.edu
