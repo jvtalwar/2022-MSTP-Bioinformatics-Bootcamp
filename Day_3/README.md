@@ -12,7 +12,11 @@ Intro to Python/R<br>
 
 ## Slides for Day 3:
 
-Slides for Day 3 can be found here: COMING SOON - Stay tuned for a slide deck near you!
+Slides for Day 3 can be found here: https://docs.google.com/presentation/d/1kwoVmQqeXRyoYyr5PAeme4IpgSMggJ_lUHRahluQzBg/edit?usp=sharing
+
+Python Introductory Course: https://www.udacity.com/course/introduction-to-python--ud1110 
+
+R Introductory Course: https://www.datacamp.com/courses/free-introduction-to-r
 
 If you run into any issues or have any questions/concerns feel free to shoot me an email: jtalwar@eng.ucsd.edu
 
